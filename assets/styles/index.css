@@ -1,0 +1,21 @@
+@import "./layout.css";
+
+html,
+body {
+  overflow: hidden;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  /* background: white; */
+  /* color: black; */
+  /* font-family: "DM Sans", sans-serif; */
+  height: 100%;
+}
+
+#__nuxt {
+  display: contents;
+}

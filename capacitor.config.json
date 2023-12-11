@@ -1,0 +1,8 @@
+{
+  "appId": "com.raqueebuddinaziz.rajamantrichorsipahi",
+  "appName": "Raja Mantri Chor Sipahi",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
